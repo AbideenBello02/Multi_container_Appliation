@@ -27,4 +27,6 @@ Project Goals:
     Also an anonymous volume was created for the path app/node_modules (-v /app/node_modules) on both container to avoid overwriting the app dependencies.
 
     Finally: To make changes in the code to be implemented I added an extra dependency (nodemon) to help restart the node server everytime changes are made.  
-    note: ofcourse this is for testing in dev environment. 
+
+
+NOTE: ofcourse the live-source-code changes is for testing in dev environment. 
